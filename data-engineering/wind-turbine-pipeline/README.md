@@ -37,7 +37,7 @@ performance on large datasets.
 # 1 Install deps (create venv first if desired)
 pip install -r requirements.txt
 
-# 2 Place raw CSVs in project root (or adjust paths)
+# 2 Place raw CSVs in project root (here 3 sample CSVs file are present) or adjust paths
 python wind_pipeline.py
 ```
 
@@ -84,15 +84,6 @@ wind-turbine-pipeline/
 2. Power output is non‑negative; extreme negative/high values are treated as outliers.  
 3. Daily σ = 0 ⇒ no anomalies (constant output).  
 4. Median imputation is acceptable for occasional sensor gaps.
-
----
-
-## Testing
-A minimal `pytest` scaffold (optional) is included in `/tests/`:
-
-```bash
-pytest -q
-```
 
 ---
 
