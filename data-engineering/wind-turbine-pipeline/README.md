@@ -37,7 +37,7 @@ performance on large datasets.
 # 1 Install deps (create venv first if desired)
 pip install -r requirements.txt
 
-# 2 Place raw CSVs in project root (here 3 sample CSVs file are present) or adjust paths
+# 2 Place raw CSVs in project root (here 3 sample CSV files are present) or adjust paths
 python wind_pipeline.py
 ```
 
