@@ -89,5 +89,5 @@ wind-turbine-pipeline/
 
 ## License
 
-This project is licensed under the [MIT License](../LICENSE).  
-A Markdown-formatted version is available [here](../LICENSE.md).
+This project is licensed under the MIT License, 
+a Markdown-formatted version is available [here](../LICENSE.md).
