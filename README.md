@@ -23,5 +23,5 @@ Built in Python using pandas and numpy.
 
 ## License
 
-This project portfolio is licensed under the [MIT License](./LICENSE).  
-A Markdown-formatted version is available [here](./LICENSE.md).
+This project portfolio is licensed under the [MIT License](/LICENSE).  
+A Markdown-formatted version is available [here](/LICENSE.md).
