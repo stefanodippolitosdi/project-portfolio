@@ -18,3 +18,10 @@ A full ETL pipeline for turbine sensor data:
 - Outputs ready-to-analyze files
 
 Built in Python using pandas and numpy.
+
+---
+
+## License
+
+This project portfolio is licensed under the [MIT License](./LICENSE).  
+A Markdown-formatted version is available [here](./LICENSE.md).

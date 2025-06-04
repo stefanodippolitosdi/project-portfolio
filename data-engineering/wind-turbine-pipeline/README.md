@@ -88,5 +88,6 @@ wind-turbine-pipeline/
 ---
 
 ## License
-© 2025 RLDatix (task context). This code is provided solely for the interview
-process and is not licensed for production use without permission.
+
+This project is licensed under the [MIT License](../LICENSE).  
+A Markdown-formatted version is available [here](../LICENSE.md).
